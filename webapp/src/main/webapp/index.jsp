@@ -1,1 +1,14 @@
-<span class="ctr-p" id="body"><center><div jscontroller="cvn5cb" data-responsive-height-resize="536" data-responsive-min-height="100" data-responsive-min-width="980" id="lga" jsaction="rcuQ6b:npT2md"><style data-iml="1595850481798">#lga{height:233px;margin-top:89px}@media only screen and (max-height:768px){#lga{margin-top:47px}}</style><img alt="Google" height="92" id="hplogo" src="/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" srcset="/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png 1x, /images/branding/googlelogo/2x/googlelogo_color_272x92dp.png 2x" style="padding-top:109px" width="272" data-iml="1595850481871" data-atf="1"></div><div style="height:118px"></div><div style="margin-top:12px"><script nonce="YGPcx6AdI0ggMbyfje4xGg==">window.gbar&&gbar.up&&gbar.up.tp&&gbar.up.tp();</script><div id="swml"></div></div></center></span>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The video element</h1>
+
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+</body>
+</html>
